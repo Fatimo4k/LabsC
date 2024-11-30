@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\LabiCLitvin\\LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C168A2-A468-4052-8C33-A58BF4AD821F}|LAB\\LAB.vcxproj|F:\\LabiCLitvin\\LAB\\LAB\\LAB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8C168A2-A468-4052-8C33-A58BF4AD821F}|LAB\\LAB.vcxproj|solutionrelative:LAB\\LAB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB.cpp",
+              "DocumentMoniker": "F:\\LabiCLitvin\\LAB\\LAB\\LAB.cpp",
+              "RelativeDocumentMoniker": "LAB\\LAB.cpp",
+              "ToolTip": "F:\\LabiCLitvin\\LAB\\LAB\\LAB.cpp",
+              "RelativeToolTip": "LAB\\LAB.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T17:03:03.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
