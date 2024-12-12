@@ -1,0 +1,5 @@
+Temperature distribution at time t = 4 seconds:
+x = 0, T = 4 C
+x = 1.33333, T = 4 C
+x = 2.66667, T = 4 C
+x = 4, T = 4 C
